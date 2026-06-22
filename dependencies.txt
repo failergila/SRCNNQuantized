@@ -1,0 +1,327 @@
+Module Name                    | Version        
+--------------------------------------------------
+81d243bd2c585b0f4821__mypyc    | Built-in / No Version
+Cython                         | 3.0.12
+IPython                        | 7.34.0
+PIL                            | 11.3.0
+__future__                     | Built-in / No Version
+__main__                       | Built-in / No Version
+__mp_main__                    | Built-in / No Version
+_abc                           | Built-in / No Version
+_ast                           | Built-in / No Version
+_asyncio                       | Built-in / No Version
+_bisect                        | Built-in / No Version
+_blake2                        | Built-in / No Version
+_brotli                        | 1.2.0
+_bz2                           | Built-in / No Version
+_codecs                        | Built-in / No Version
+_codecs_cn                     | Built-in / No Version
+_codecs_hk                     | Built-in / No Version
+_codecs_iso2022                | Built-in / No Version
+_codecs_jp                     | Built-in / No Version
+_codecs_kr                     | Built-in / No Version
+_codecs_tw                     | Built-in / No Version
+_collections                   | Built-in / No Version
+_collections_abc               | Built-in / No Version
+_compat_pickle                 | Built-in / No Version
+_compression                   | Built-in / No Version
+_contextvars                   | Built-in / No Version
+_csparsetools                  | Built-in / No Version
+_csv                           | 1.0
+_ctypes                        | 1.1.0
+_cuda_bindings_redirector      | Built-in / No Version
+_curses                        | b'2.2'
+_cython_3_0_11                 | Built-in / No Version
+_cython_3_1_4                  | Built-in / No Version
+_cython_3_1_6                  | Built-in / No Version
+_cyutility                     | Built-in / No Version
+_datetime                      | Built-in / No Version
+_decimal                       | 1.70
+_distutils_hack                | Built-in / No Version
+_elementtree                   | Built-in / No Version
+_frozen_importlib              | Built-in / No Version
+_frozen_importlib_external     | Built-in / No Version
+_functools                     | Built-in / No Version
+_hashlib                       | Built-in / No Version
+_heapq                         | Built-in / No Version
+_imp                           | Built-in / No Version
+_io                            | Built-in / No Version
+_json                          | Built-in / No Version
+_locale                        | Built-in / No Version
+_lsprof                        | Built-in / No Version
+_lzma                          | Built-in / No Version
+_markupbase                    | Built-in / No Version
+_moduleTNC                     | Built-in / No Version
+_multibytecodec                | Built-in / No Version
+_multiprocessing               | Built-in / No Version
+_ni_label                      | Built-in / No Version
+_numba_cuda_redirector         | Built-in / No Version
+_nx_cugraph                    | 26.02.000
+_opcode                        | Built-in / No Version
+_operator                      | Built-in / No Version
+_pickle                        | Built-in / No Version
+_posixshmem                    | Built-in / No Version
+_posixsubprocess               | Built-in / No Version
+_pydev_bundle                  | Built-in / No Version
+_pydev_runfiles                | Built-in / No Version
+_pydevd_bundle                 | Built-in / No Version
+_pydevd_frame_eval             | Built-in / No Version
+_pydevd_sys_monitoring         | Built-in / No Version
+_pydevd_sys_monitoring_cython  | Built-in / No Version
+_pyio                          | Built-in / No Version
+_queue                         | Built-in / No Version
+_random                        | Built-in / No Version
+_remote_module_non_scriptable  | Built-in / No Version
+_sha2                          | Built-in / No Version
+_signal                        | Built-in / No Version
+_sitebuiltins                  | Built-in / No Version
+_socket                        | Built-in / No Version
+_sqlite3                       | Built-in / No Version
+_sre                           | Built-in / No Version
+_ssl                           | Built-in / No Version
+_stat                          | Built-in / No Version
+_statistics                    | Built-in / No Version
+_string                        | Built-in / No Version
+_strptime                      | Built-in / No Version
+_struct                        | Built-in / No Version
+_sysconfigdata__x86_64-linux-gnu | Built-in / No Version
+_thread                        | Built-in / No Version
+_tokenize                      | Built-in / No Version
+_typing                        | Built-in / No Version
+_uuid                          | Built-in / No Version
+_warnings                      | Built-in / No Version
+_weakref                       | Built-in / No Version
+_weakrefset                    | Built-in / No Version
+abc                            | Built-in / No Version
+ac51d50a4f4b6d748b8c__mypyc    | Built-in / No Version
+anywidget                      | 0.9.21
+argparse                       | 1.1
+array                          | Built-in / No Version
+ast                            | Built-in / No Version
+asyncio                        | Built-in / No Version
+atexit                         | Built-in / No Version
+backcall                       | 0.2.0
+base64                         | Built-in / No Version
+bdb                            | Built-in / No Version
+binascii                       | Built-in / No Version
+bisect                         | Built-in / No Version
+brotli                         | 1.2.0
+builtins                       | Built-in / No Version
+bz2                            | Built-in / No Version
+cProfile                       | Built-in / No Version
+calendar                       | Built-in / No Version
+certifi                        | 2026.5.20
+chardet                        | 5.2.0
+charset_normalizer             | 3.4.7
+cmath                          | Built-in / No Version
+cmd                            | Built-in / No Version
+code                           | Built-in / No Version
+codecs                         | Built-in / No Version
+codeop                         | Built-in / No Version
+collections                    | Built-in / No Version
+colorsys                       | Built-in / No Version
+concurrent                     | Built-in / No Version
+configparser                   | Built-in / No Version
+contextlib                     | Built-in / No Version
+contextvars                    | Built-in / No Version
+copy                           | Built-in / No Version
+copyreg                        | Built-in / No Version
+csv                            | 1.0
+ctypes                         | 1.1.0
+cuda                           | 12.9.7
+curses                         | Built-in / No Version
+cv2                            | 4.13.0
+cycler                         | 0.12.1
+cython                         | 3.0.12
+cython_runtime                 | Built-in / No Version
+dataclasses                    | Built-in / No Version
+datetime                       | Built-in / No Version
+dateutil                       | 2.9.0.post0
+debugpy                        | 1.8.15
+decimal                        | 1.70
+decorator                      | 4.4.2
+defusedxml                     | 0.7.1
+difflib                        | Built-in / No Version
+dill                           | 0.3.8
+dis                            | Built-in / No Version
+email                          | Built-in / No Version
+encodings                      | Built-in / No Version
+entrypoints                    | 0.4
+enum                           | Built-in / No Version
+errno                          | Built-in / No Version
+faulthandler                   | Built-in / No Version
+fcntl                          | Built-in / No Version
+fileinput                      | Built-in / No Version
+fnmatch                        | Built-in / No Version
+fractions                      | Built-in / No Version
+functools                      | Built-in / No Version
+gc                             | Built-in / No Version
+genericpath                    | Built-in / No Version
+getopt                         | Built-in / No Version
+getpass                        | Built-in / No Version
+gettext                        | Built-in / No Version
+glob                           | Built-in / No Version
+google                         | 3.0.0
+grp                            | Built-in / No Version
+gzip                           | Built-in / No Version
+hashlib                        | Built-in / No Version
+heapq                          | Built-in / No Version
+hmac                           | Built-in / No Version
+html                           | Built-in / No Version
+http                           | Built-in / No Version
+httplib2                       | 0.31.2
+idna                           | 3.18
+importlib                      | Built-in / No Version
+inspect                        | Built-in / No Version
+io                             | Built-in / No Version
+ipaddress                      | 1.0
+ipykernel                      | 6.17.1
+ipython_genutils               | 0.2.0
+ipywidgets                     | 7.7.1
+itertools                      | Built-in / No Version
+jinja2                         | 3.1.6
+json                           | 2.0.9
+jupyter_client                 | 7.4.9
+jupyter_core                   | 5.9.1
+kagglehub                      | 1.0.2
+kagglesdk                      | 0.1.23
+keyword                        | Built-in / No Version
+kiwisolver                     | 1.5.0
+lazy_loader                    | 0.5
+linecache                      | Built-in / No Version
+locale                         | Built-in / No Version
+logging                        | 0.5.1.2
+lzma                           | Built-in / No Version
+markupsafe                     | 3.0.3
+marshal                        | Built-in / No Version
+math                           | Built-in / No Version
+matplotlib                     | 3.10.0
+matplotlib_inline              | 0.2.2
+mimetypes                      | Built-in / No Version
+mmap                           | Built-in / No Version
+modulefinder                   | Built-in / No Version
+mpl_toolkits                   | Built-in / No Version
+mpmath                         | 1.3.0
+multiprocessing                | Built-in / No Version
+networkx                       | 3.6.1
+ntpath                         | Built-in / No Version
+numbers                        | Built-in / No Version
+numpy                          | 2.0.2
+opcode                         | Built-in / No Version
+operator                       | Built-in / No Version
+opt_einsum                     | 3.4.0
+optree                         | 0.19.1
+os                             | Built-in / No Version
+packaging                      | 26.2
+pathlib                        | Built-in / No Version
+pdb                            | Built-in / No Version
+pexpect                        | 4.9.0
+pickle                         | Built-in / No Version
+pickleshare                    | 0.7.5
+pickletools                    | Built-in / No Version
+pkgutil                        | Built-in / No Version
+platform                       | 1.0.8
+platformdirs                   | 4.10.0
+plistlib                       | Built-in / No Version
+portpicker                     | 1.5.2
+posix                          | Built-in / No Version
+posixpath                      | Built-in / No Version
+pprint                         | Built-in / No Version
+profile                        | Built-in / No Version
+prompt_toolkit                 | 3.0.52
+pstats                         | Built-in / No Version
+psutil                         | 5.9.5
+psygnal                        | 0.15.1
+pty                            | Built-in / No Version
+ptyprocess                     | 0.7.0
+pwd                            | Built-in / No Version
+pydev_ipython                  | Built-in / No Version
+pydevconsole                   | Built-in / No Version
+pydevd                         | 3.2.3
+pydevd_file_utils              | Built-in / No Version
+pydevd_plugins                 | Built-in / No Version
+pydevd_tracing                 | Built-in / No Version
+pydoc                          | Built-in / No Version
+pydot                          | 4.0.1
+pyexpat                        | Built-in / No Version
+pygments                       | 2.20.0
+pynvml                         | Built-in / No Version
+pyparsing                      | 3.3.2
+queue                          | Built-in / No Version
+quopri                         | Built-in / No Version
+random                         | Built-in / No Version
+rapids_dask_dependency         | 26.2.0
+re                             | 2.2.1
+reprlib                        | Built-in / No Version
+requests                       | 2.32.4
+resource                       | Built-in / No Version
+runpy                          | Built-in / No Version
+scipy                          | 1.16.3
+secrets                        | Built-in / No Version
+select                         | Built-in / No Version
+selectors                      | Built-in / No Version
+shlex                          | Built-in / No Version
+shutil                         | Built-in / No Version
+signal                         | Built-in / No Version
+simplejson                     | 4.1.1
+site                           | Built-in / No Version
+sitecustomize                  | Built-in / No Version
+six                            | 1.17.0
+skimage                        | 0.25.2
+socket                         | Built-in / No Version
+socketserver                   | 0.4
+socks                          | 1.7.1
+spanner_graphs                 | Built-in / No Version
+sphinxcontrib                  | Built-in / No Version
+sqlite3                        | Built-in / No Version
+ssl                            | Built-in / No Version
+stat                           | Built-in / No Version
+statistics                     | Built-in / No Version
+storemagic                     | Built-in / No Version
+string                         | Built-in / No Version
+stringprep                     | Built-in / No Version
+struct                         | Built-in / No Version
+subprocess                     | Built-in / No Version
+sympy                          | 1.14.0
+sys                            | Built-in / No Version
+sysconfig                      | Built-in / No Version
+tarfile                        | Built-in / No Version
+tempfile                       | Built-in / No Version
+termios                        | Built-in / No Version
+textwrap                       | Built-in / No Version
+threading                      | Built-in / No Version
+time                           | Built-in / No Version
+timeit                         | Built-in / No Version
+token                          | Built-in / No Version
+tokenize                       | Built-in / No Version
+torch                          | 2.11.0+cu128
+torchgen                       | Built-in / No Version
+torchvision                    | 0.26.0+cu128
+tornado                        | 6.5.7
+tqdm                           | 4.67.3
+traceback                      | Built-in / No Version
+traitlets                      | 5.7.1
+triton                         | 3.6.0
+tty                            | Built-in / No Version
+types                          | Built-in / No Version
+typing                         | Built-in / No Version
+typing_extensions              | 4.15.0
+unicodedata                    | Built-in / No Version
+unittest                       | Built-in / No Version
+urllib                         | Built-in / No Version
+urllib3                        | 2.5.0
+uuid                           | Built-in / No Version
+warnings                       | Built-in / No Version
+wcwidth                        | 0.8.1
+weakref                        | Built-in / No Version
+webbrowser                     | Built-in / No Version
+xml                            | Built-in / No Version
+xmlrpc                         | Built-in / No Version
+yaml                           | 6.0.3
+zipfile                        | Built-in / No Version
+zipimport                      | Built-in / No Version
+zlib                           | 1.0
+zmq                            | 26.2.1
+zstandard                      | 0.25.0
+/tmp/ipykernel_37968/599041254.py:19: FutureWarning: accessing cuda.__version__ is deprecated, please switch to use cuda.bindings.__version__ instead
+  version = getattr(sys.modules[mod_name], "__version__", "Built-in / No Version")
