@@ -9,7 +9,8 @@ In this project, SRCNN [1] was used to test the performance degradation caused b
 ## Model
 
 ## Workflow
-![Project Diagram](path/to/your/diagram.svg)
+
+![ProjectDiagram](img/ProjectDiagram.drawio.svg)
 
 ## Future Work
 
