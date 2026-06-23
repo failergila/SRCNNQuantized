@@ -49,11 +49,15 @@ $$
 
 where $x \in [a,b]$ and x is a floating point number,
 
-$x: Original\ Value\\$
-$x_q : Quantized\ x\\$
-$e_q : Quantization\ Error\\$
-$S: Quantization\ Scale\\$
-$Z: Zero\ Point\\$
+$$
+\begin{align*}
+x:& Original\ Value\\
+x_q :& Quantized\ x\\
+e_q :& Quantization\ Error\\
+S:& Quantization\ Scale\\
+Z:& Zero\ Point\\
+\end{align*}
+$$
 
 #### Per-tensor or Per-channel Quantization
 
