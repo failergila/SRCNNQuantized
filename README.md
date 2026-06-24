@@ -4,6 +4,17 @@ This project aims to compare the effects of different quantization methods for S
 ## Introduction
 In this project, SRCNN [1] was used to test the performance degradation caused by quantization errors observed in Post Training Quantization (PTQ) and Quantization Aware Training (QAT). 
 
+## How to Use
+
+After downloading the git repository
+
+With Colab:
+1. Upload SECNN_Quantized.ipynb to Colab.
+2. Run the code up to and including the drive section. This will create the necessary folders
+3. Upload the model weights and dictionaries from git to root directory.  
+4. Run the remaining code until quantization section. Definitions subsection of quantization section should also be ran.
+5. Use Load Models and Make Inferences section to load the weights and dictionaries inside the immediate directory. 
+
 ## Dependencies
 
 This project started while PyTorch was migrating torch.ao to a separate library: torchao. However, because the migration was only halfway done, major CNN quantization capabilities were left in the soon to be deprecated torch.ao which is used in this project. As long as the module versions in dependencies.txt is used, the project should run normally.
