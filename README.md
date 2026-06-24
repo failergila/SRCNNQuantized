@@ -6,14 +6,16 @@ In this project, SRCNN [1] was used to test the performance degradation caused b
 
 ## How to Use
 
-After downloading the git repository
+After downloading the git repository:
 
 With Colab:
-1. Upload SECNN_Quantized.ipynb to Colab.
+1. Upload SRCNN_Quantized.ipynb to Colab.
 2. Run the code up to and including the drive section. This will create the necessary folders
 3. Upload the model weights and dictionaries from git to root directory.  
 4. Run the remaining code until quantization section. Definitions subsection of quantization section should also be ran.
 5. Use Load Models and Make Inferences section to load the weights and dictionaries inside the immediate directory. 
+
+If running for the first time, the user might want to enable config.use_drive and config.download_dataset. The path should have "/content/drive/MyDrive/" as a prefix to directory path if use_drive is selected. 
 
 ## Dependencies
 
