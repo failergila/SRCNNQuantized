@@ -130,33 +130,33 @@ QAT showed an improvement of 0.0147 which is ~94% performance retention after qu
 
 #### Original
 
-![plotoriginaltest](torch/outputs/Default_Test_SSIM.png)
+![plotoriginaltest](torch/workfolder/Default_Test_SSIM.png)
 
 #### PTQ
 
-![plotptqtest](torch/outputs/ptq_quantized_Test_SSIM.png)
+![plotptqtest](torch/workfolder/ptq_quantized_Test_SSIM.png)
 
-![plotptqtest](torch/outputs/ptq_quantized_Test_SSIM_Improvement.png)
+![plotptqtest](torch/workfolder/ptq_quantized_Test_SSIM_Improvement.png)
 
 #### QAT
 
-![plotqattest](torch/outputs/qat_quantized_Test_SSIM.png)
+![plotqattest](torch/workfolder/qat_quantized_Test_SSIM.png)
 
-![plotqattest](torch/outputs/qat_quantized_Test_SSIM_Improvement.png)
+![plotqattest](torch/workfolder/qat_quantized_Test_SSIM_Improvement.png)
 
 ### MSE Comparison
 
 #### Original
 
-![plotoriginalMSE](torch/outputs/Default_Test_MSE.png)
+![plotoriginalMSE](torch/workfolder/Default_Test_MSE.png)
 
 #### PTQ
 
-![plotptqMSE](torch/outputs/ptq_quantized_Test_MSE.png)
+![plotptqMSE](torch/workfolder/ptq_quantized_Test_MSE.png)
 
 #### QAT
 
-![plotqatMSE](torch/outputs/qat_quantized_Test_MSE.png)
+![plotqatMSE](torch/workfolder/qat_quantized_Test_MSE.png)
 
 ### Test Images
 
@@ -167,15 +167,15 @@ Inference times are a little inconsistent with what is expected which might be a
 
 #### Original
 
-![plotoriginaltest](torch/outputs/Default%20Test%20Images.png)
+![plotoriginaltest](torch/workfolder/Default%20Test%20Images.png)
 
 #### PTQ
 
-![plotptqtest](torch/outputs/ptq_quantized%20Test%20Images.png)
+![plotptqtest](torch/workfolder/ptq_quantized%20Test%20Images.png)
 
 #### QAT
 
-![plotqattest](torch/outputs/qat_quantized%20Test%20Images.png)
+![plotqattest](torch/workfolder/qat_quantized%20Test%20Images.png)
 
 ## Future Work / Shortcomings
 
@@ -187,7 +187,7 @@ maxim: Not added as it does not contain extra work other than what is provided i
 
 img: Markdown images.
 
-img/results: Result images and plots
+torch/workfolder: Result images and plots
 
 torch: PyTorch related codes. All the code is written as jupyter notebooks for ease of debugging however they might be converted to regular .py files if deemed necessary.
 
