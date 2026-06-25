@@ -9,7 +9,7 @@ In this project, SRCNN [1] was used to test the performance degradation caused b
 After downloading the git repository:
 
 With Colab:
-1. Upload SRCNN_Quantized.ipynb to Colab.
+1. Upload torch/SRCNN_Quantized.ipynb to Colab.
 2. Run the code up to and including the drive section. This will create the necessary folders
 3. Upload the model weights and dictionaries from git to root directory.  
 4. Run the remaining code until quantization section. Definitions subsection of quantization section should also be ran.
